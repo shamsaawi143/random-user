@@ -15,7 +15,7 @@ A simple project that fetches and displays random user data using an external AP
 
 ## 🛠️ Tech Stack
 
-* HTML / CSS / JavaScript *(or replace with your stack, e.g. React, Node.js)*
+* HTML / CSS / JavaScript 
 * Fetch API / Axios
 * Random User API
 
@@ -30,6 +30,7 @@ git clone https://github.com/your-username/get-random-user.git
 2. Navigate into the project folder:
 
 bash
+
 cd get-random-user
 
 
@@ -51,7 +52,7 @@ https://randomuser.me/api/
 📸 Preview
 App Screenshot
 
-![Note App Screenshot](random-user_gen/assets/Screenshot.png)
+![Note App Screenshot](RANDOM_USER_GEN/assets/Screenshot.png)
 ## 🧠 How It Works
 
 1. A request is sent to the Random User API
