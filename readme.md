@@ -51,7 +51,7 @@ https://randomuser.me/api/
 📸 Preview
 App Screenshot
 
-![Note App Screenshot](random-user/assets/Screenshot.png)
+![Note App Screenshot](random-user_gen/assets/Screenshot.png)
 ## 🧠 How It Works
 
 1. A request is sent to the Random User API
