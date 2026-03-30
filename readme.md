@@ -24,7 +24,7 @@ A simple project that fetches and displays random user data using an external AP
 1. Clone the repository:
 
 bash
-git clone https://github.com/your-username/get-random-user.git
+git clone https://github.com/shamsaawi143/get-random-user.git
 
 
 2. Navigate into the project folder:
@@ -53,6 +53,7 @@ https://randomuser.me/api/
 App Screenshot
 
 ![Note App Screenshot](RADOM_USER_GEN/assets/Screenshot.png)
+
 ## 🧠 How It Works
 
 1. A request is sent to the Random User API
